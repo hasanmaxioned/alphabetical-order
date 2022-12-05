@@ -103,52 +103,35 @@ li {
   width: 86%; 
   margin: 0 auto;
 }
-/*=================================
-  Header styling starts here
-=================================*/
-
-
-
-
-
-
-/*=================================
-  Header styling ends here
-=================================*/  
 
 /*=================================
   main styling starts here
 =================================*/
 
+div#form-field input {
+  padding: 10px 12px;
+  margin: 20px;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
 
+div#submit-value input {
+  margin: 0 20px;
+  padding: 10px 16px;
+  background: #ef8d0e;
+  color: #fff;
+  border: navajowhite;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
 
-
-
-
+p#text {
+  padding: 10px 0;
+  margin: 20px;
+  text-transform: capitalize;
+}
 
 
 /*=================================
   main styling ends here
 =================================*/
-
-/*=================================
-  footer styling starts here
-=================================*/ 
-
-
-
-
-
-
-
- /*=================================
-  footer styling ends here
-=================================*/ 
-
-/*media query starts*/
-/*media query for 995px starts here*/
-@media only screen and (max-width: 995px) {
-
-
-
-}  
